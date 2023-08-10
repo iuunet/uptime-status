@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'http://own.tren.cc:30000'
     },
     {
       text: 'GitHub',
@@ -27,7 +27,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: 'http://home.tren.cc/'
     },
   ],
 };
